@@ -1,3 +1,9 @@
+---
+title: Next.js - React Foundation
+description: 'Basic of React'
+date: 12-12-2023
+---
+
 Official Site: https://pandoc.org
 
 ## Using pandoc:

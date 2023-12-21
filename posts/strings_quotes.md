@@ -1,3 +1,9 @@
+---
+title: Next.js - React Foundation
+description: 'Basic of React'
+date: 12-12-2023
+---
+
 from: PHP Notes for pro
 
 ### Section 9.4: Strings
